@@ -1,0 +1,2 @@
+#No incluir los puntos class genrados por Java
+*.class
