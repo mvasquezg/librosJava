@@ -20,5 +20,10 @@ class AsignarDatos{
         //asignacion de refrencia
         s="Datos";
 
+        //Imprimiendo los datos en pantalla
+        System.out.println(s+": ");
+        System.out.println("a = "+a);
+        System.out.println("b = "+b);
+        System.out.println("c = "+c);
     }//end main
 }//end AsignarDatos
